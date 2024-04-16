@@ -1,0 +1,14 @@
+{
+    "dashboardWidgets": [
+      {
+        "enabled": "true",
+        "externalWidgetConfig": {
+          "id": "dashboard-widget-example",
+          "name": "Dashboard Widget Example",
+          "viewUrl": "./index.html",
+          "attributes": {
+          }
+        }
+      }
+    ]
+  }
